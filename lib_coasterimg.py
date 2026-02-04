@@ -37,7 +37,7 @@ def get():
 
     ]
 
-    return coasters[1]
+    return coasters[0]
 
    
 
